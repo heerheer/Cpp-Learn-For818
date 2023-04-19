@@ -33,6 +33,8 @@ This chapter contains multiple exercises to help you understand use arrays to op
 - [**Exercise 1**](../chapter5/exercise1.cpp): 筛法与素数
 - [**Exercise 2**](): 选择法排序
 - [**Exercise 3**](): 矩阵对角线
+- [**Exercise 4**](): 排序数组插入新数字
+- [**Exercise 5**](): 反转数组排序
 
 ### Chapter 6: Pointers and Dynamic Memory
 This chapter contains multiple exercises to help you understand pointers and dynamic memory in C++.
