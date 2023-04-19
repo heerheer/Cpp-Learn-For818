@@ -30,11 +30,11 @@ This chapter contains multiple exercises to help you understand functions and li
 ### Chapter 5: Use arrays to operate data
 This chapter contains multiple exercises to help you understand use arrays to operate data in C++.
 
-- [**Exercise 1**](../chapter5/exercise1.cpp): 筛法与素数
-- [**Exercise 2**](): 选择法排序
-- [**Exercise 3**](): 矩阵对角线
-- [**Exercise 4**](): 排序数组插入新数字
-- [**Exercise 5**](): 反转数组排序
+- [**Exercise 1**](./chapters/5/5-1.md): 筛法与素数
+- [**Exercise 2**](./chapters/5/5-2.md): 选择法排序
+- [**Exercise 3**](./chapters/5/5-3.md): 矩阵对角线
+- [**Exercise 4**](./chapters/5/5-4.md): 排序数组插入新数字
+- [**Exercise 5**](./chapters/5/5-5.md): 反转数组排序
 
 ### Chapter 6: Pointers and Dynamic Memory
 This chapter contains multiple exercises to help you understand pointers and dynamic memory in C++.
