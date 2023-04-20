@@ -35,7 +35,7 @@ This chapter contains multiple exercises to help you understand use arrays to op
 - [**Exercise 3**](./chapters/5/5-3.md): 矩阵对角线
 - [**Exercise 4**](./chapters/5/5-4.md): 排序数组插入新数字
 - [**Exercise 5**](./chapters/5/5-5.md): 反转数组排序
-
+- [**Exercise 6**](./chapters/5/5-6.md): 杨辉三角形
 ### Chapter 6: Pointers and Dynamic Memory
 This chapter contains multiple exercises to help you understand pointers and dynamic memory in C++.
 
